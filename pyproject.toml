@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "projetoetic"
-version = "0.1.0"
+version = "0.1.0a0"
 description = "Projeto Etic"
 authors = ["Gooli <leandro.gooli@gmail.com>"]
 license = "MIT License"
@@ -8,6 +8,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+django = "^5.0.6"
+
 
 
 [build-system]
